@@ -15,3 +15,6 @@ struct Story {
     let choice2: String
     let choice2Destination: Int
 }
+
+
+// d
